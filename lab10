@@ -57,6 +57,7 @@ namespace grafika
                  new Point(200,400)
 
                });
+//добавление
 
             // g.FillRectangle(myTrum, 250, 200, 350, 100); // палуба (прямоугольник)
             
