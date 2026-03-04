@@ -38,12 +38,7 @@ namespace grafika
 
             Pen pen = new Pen(Color.Gold, 5);
 
-          
-            
-            //g.FillRectangle(myTrub, 0, 0, 100, 1000); // 1 труба (прямоугольник) 
-
-          //  g.FillRectangle(myCorp, 100, 100, 100, 10); // 2 труба (прямоугольник) 
-            
+        
              g.FillPolygon(myCorp, new Point[]   // корпус (трапеция)
 
                {
